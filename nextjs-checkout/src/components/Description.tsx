@@ -8,7 +8,7 @@ export default function Description(){
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                         Sed et libero id justo ullamcorper vulputate vel et mauris. 
-                        Nulla facilisi. Donec quis turpis et lectus ullamcorper rutrum.
+                        Nulla facilisi. Donec quis turpis et lectus ullamcorper rutrum..
                     </p>
                 </div>
                 <div className="lg:w-[70%]">

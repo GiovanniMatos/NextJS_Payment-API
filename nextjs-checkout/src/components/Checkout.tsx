@@ -13,7 +13,7 @@ export default function Checkout() {
             <p className="mb-4">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
             Sed et libero id justo ullamcorper vulputate vel et mauris. 
-            Nulla facilisi. Donec quis turpis et lectus ullamcorper rutrum.
+            Nulla facilisi. Donec quis turpis et lectus ullamcorper rutrum..
             </p>
             <form>
             <div className="mb-4">
