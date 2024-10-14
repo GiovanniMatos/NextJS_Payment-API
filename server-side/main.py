@@ -2,6 +2,8 @@ import stripe
 
 stripe.api_key = "YOUR_STRIPE_API_KEY"
 
+#### ADDING A COSTUMER IS OPTIONAL BUT IMPORTANT #### 
+
 # Create a payment method (e.g. a card)
 card = stripe.PaymentMethod.create(
     type="card",
