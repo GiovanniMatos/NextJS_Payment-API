@@ -11,13 +11,13 @@ export default function Description(){
                         Nulla facilisi. Donec quis turpis et lectus ullamcorper rutrum.
                     </p>
                 </div>
-                <div className="lg:w-1/4">
+                <div className="lg:w-[70%]">
                     <img src="iphone-img-teste.jpg" alt="Image"/>
                 </div>
             </div>
 
             <div className="container flex justify-between">
-                <div className="lg:w-1/4">
+                <div className="lg:w-[70%]">
                     <img src="iphone-img-teste.jpg" alt="Image"/>
                 </div>
                 <div className="lg:w-3/4 text-lg">
