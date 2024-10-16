@@ -2,6 +2,7 @@
 import Checkout from "../components/Checkout";
 import Description from "../components/Description";
 import Footer from "../components/Footer";
+import CopyLink from "../components/CopyLink";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
         <h1 className="text-3xl flex font-bold justify-center mb-3">Product Description</h1>
         <Description />
         <div className="w-full h-[2px] bg-orange-700 mt-4 mb-4"/>
+        <CopyLink />
         <Footer />
       </div>
     </>
