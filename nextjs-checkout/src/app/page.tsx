@@ -3,6 +3,7 @@ import Checkout from "../components/Checkout";
 import Description from "../components/Description";
 import Footer from "../components/Footer";
 import CopyLink from "../components/CopyLink";
+import NavCategory from "../components/NavCategory";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
         <Description />
         <div className="w-full h-[2px] bg-orange-700 mt-4 mb-4"/>
         <CopyLink />
+        <NavCategory />
         <Footer />
       </div>
     </>
