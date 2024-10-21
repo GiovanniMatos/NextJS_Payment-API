@@ -30,7 +30,7 @@ export default function Checkout() {
         <>
             <h2 className="text-3xl font-bold mb-4">Checkout</h2>
             <div className="lg:flex flex-wrap lg:justify-center lg:items-center">
-                <img src="iphone-img-teste.jpg" alt="Image" className="w-[23.3rem] h-[15rem] lg:w-[31rem] lg:h-[22rem] object-cover object-center" />
+                <img src="iphone-img-teste.jpg" alt="Image" className="w-full h-[15rem] lg:w-[31rem] lg:h-[22rem] object-cover object-center lg:mb-3" />
                 <div className="w-full lg:w-1/2 xl:w-2/3 p-6 text-lg">
                     <h2 className="text-2xl font-bold mb-2 text-left ml-[-1.5rem] lg:ml-[0.20rem]">Product name</h2>
                     <ul className="flex space-x-4 mb-4 ml-[-1.5rem] lg:ml-[0.20rem]">
