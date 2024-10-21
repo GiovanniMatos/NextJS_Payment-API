@@ -12,7 +12,10 @@ bun dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-![image](https://github.com/user-attachments/assets/224c45c2-d894-4384-bc35-25d7e5099f41)
+![image](https://github.com/user-attachments/assets/777180ee-4a81-4607-99e5-b02d2d544e0d)
+![image](https://github.com/user-attachments/assets/c9bd21dd-13a8-4f83-a982-81475d5f278c)
+![image](https://github.com/user-attachments/assets/38845036-c02e-4c95-8a39-4acd14ec0667)
+
 
 ! ! ! Back-end is in progress ! ! !
 
