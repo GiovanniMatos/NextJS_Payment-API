@@ -3,7 +3,7 @@
 export default function Description(){
     return(
         <>
-            <div className="container flex justify-between mb-4">
+            <div className="container lg:flex justify-between mb-4">
                 <div className="lg:w-3/4 text-lg">
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
@@ -16,12 +16,12 @@ export default function Description(){
                 </div>
             </div>
 
-            <div className="container flex justify-between">
+            <div className="container lg:flex justify-between">
                 <div className="lg:w-[70%]">
                     <img src="iphone-img-teste.jpg" alt="Image"/>
                 </div>
                 <div className="lg:w-3/4 text-lg">
-                    <p>
+                    <p className="lg:ml-14">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                         Sed et libero id justo ullamcorper vulputate vel et mauris. 
                         Nulla facilisi. Donec quis turpis et lectus ullamcorper rutrum.
