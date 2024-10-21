@@ -30,10 +30,10 @@ export default function CheckoutPix(){
     return(
         <>
         <div className="lg:flex">
-            <div className="bg-gray-800 h-[14rem] w-[14rem] mx-auto lg:ml-0 lg:mr-1"/>
+            <div className="bg-gray-800 h-[14rem] w-[14rem] lg:h-[16.5rem] lg:w-[16.5rem] mx-auto lg:ml-0 lg:mr-1"/>
             <div className="">
                 <input
-                className="w-[20rem] md:w-[30rem] lg:w-[30rem] pt-2 pb-2 pl-4 border-zinc-300 border-[0.5px] rounded-[4px] mt-3 text-gray-800 "
+                className="w-full md:w-[30rem] lg:w-[30rem] lg:ml-0 pt-2 pb-2 pl-4 border-zinc-300 border-[0.5px] rounded-[4px] mt-3 text-gray-800 "
                 type="text"
                 defaultValue={PixCode}
                 readOnly
